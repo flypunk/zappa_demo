@@ -1,0 +1,7 @@
+---
+dev:
+  app_function: demo_app.app
+  s3_bucket: _unique_bucket_name
+  aws_region: us-east-1
+  domain: _api.example.com
+  lets_encrypt_key: account.key

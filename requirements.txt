@@ -1,0 +1,2 @@
+Flask>=0.12.2
+https://github.com/flypunk/Zappa/archive/master.zip
